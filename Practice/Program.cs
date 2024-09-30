@@ -1,6 +1,6 @@
 ﻿using Practice.Condition;
 
-var c = new Attendance();
+var c = new NumberEO();
 
 
 c.Main();
