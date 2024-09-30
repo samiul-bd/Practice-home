@@ -1,7 +1,7 @@
 ﻿using Practice.Condition;
 using Practice.Loops;
 
-var c = new ForLoop();
+var c = new ForeachLoop();
 
 
 c.Main();
