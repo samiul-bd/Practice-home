@@ -1,6 +1,6 @@
 ﻿using Practice.Condition;
 
-var c = new NumberEO();
+var c = new Grade();
 
 
 c.Main();
