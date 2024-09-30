@@ -1,6 +1,6 @@
 ﻿using Practice.Condition;
 
-var c = new TemperatureCheck();
+var c = new Discount();
 
 
 c.Main();
