@@ -1,6 +1,7 @@
 ﻿using Practice.Condition;
+using Practice.Loops;
 
-var c = new Grade();
+var c = new ForLoop();
 
 
 c.Main();
